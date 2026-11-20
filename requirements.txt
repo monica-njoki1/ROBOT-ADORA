@@ -1,0 +1,9 @@
+ollama
+requests
+python-dotenv
+flask
+flask-cors
+SpeechRecognition
+pyttsx3
+PyAudio
+pyserial
